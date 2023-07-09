@@ -18,7 +18,7 @@
 2. Secret新增`SMZDM_COOKIE`，填入浏览器调试模式从[什么值得买官网](https://www.smzdm.com/)cookie信息, 不懂可看下面的其它
 3. （可选）Secret新增`SERVERCHAN_SECRETKEY`，获取方法可看这篇文章[@ruicky教程](https://ruicky.me/2020/06/05/jd-sign/)
 4. fork后必须修改一下文件，才能执行定时任务, 可修改 `README.MD`, 添加一个空格
-5. `SERVERCHAN_SECRETKEY`,Server酱[https://sct.ftqq.com/]推送的key
+5. `SERVERCHAN_SECRETKEY`,[Server酱](https://sct.ftqq.com/)推送的key
 
 # 3. 其它
 ## 3.1 cookie获取方法
